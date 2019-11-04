@@ -3,13 +3,23 @@ disfluency_corpus_processing
 ============================
 
 
-Add a short description here!
-
+Corpus preprocessing utilities for Difluency Detection task
 
 Description
 ===========
 
-A longer description of your project goes here...
+This utility was used in the Interspeech paper.
+
+
+@inproceedings{Bach2019,
+  author={Nguyen Bach and Fei Huang},
+  title={{Noisy BiLSTM-Based Models for Disfluency Detection}},
+  year=2019,
+  booktitle={Proc. Interspeech 2019},
+  pages={4230--4234},
+  doi={10.21437/Interspeech.2019-1336},
+  url={http://dx.doi.org/10.21437/Interspeech.2019-1336}
+}
 
 
 Note
