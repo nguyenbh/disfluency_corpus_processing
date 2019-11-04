@@ -1,25 +1,25 @@
 ============================
-disfluency_corpus_processing
+Difluency corpus preprocessing
 ============================
 
+This is a corpus preprocessing utility for the Difluency Detection task.
 
-Corpus preprocessing utilities for Difluency Detection task
 
 Description
 ===========
 
 This utility was used in the Interspeech paper.
 
+`Noisy BiLSTM-Based Models for Disfluency Detection <http://dx.doi.org/10.21437/Interspeech.2019-1336>`_, Nguyen Bach and Fei Huang, Proc. Interspeech 2019,
 
-@inproceedings{Bach2019,
-  author={Nguyen Bach and Fei Huang},
-  title={{Noisy BiLSTM-Based Models for Disfluency Detection}},
-  year=2019,
-  booktitle={Proc. Interspeech 2019},
-  pages={4230--4234},
-  doi={10.21437/Interspeech.2019-1336},
-  url={http://dx.doi.org/10.21437/Interspeech.2019-1336}
-}
+Usage
+===========
+
+ * git clone https://github.com/nguyenbh/disfluency_corpus_processing.git
+  
+ * python setup.py
+ 
+ * make_switchboard --help
 
 
 Note
