@@ -13,5 +13,5 @@
 # Remember to also add them in setup.cfg but unpinned.
 # Example:
 nltk==3.4.5
-scikit-learn==0.21.3
+scikit-learn==1.5.0
 
